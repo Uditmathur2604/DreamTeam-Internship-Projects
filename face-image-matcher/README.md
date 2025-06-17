@@ -26,6 +26,8 @@ face-image-matcher/
 ├── requirements.txt # All dependencies
 └── README.md # Project documentation
 
+**⚠️ Note:**  
+The `event_photos/` folder is meant to be created locally and should include your own as well as others images. This folder is intentionally excluded from the GitHub repository for privacy and security.
 
 ---
 
