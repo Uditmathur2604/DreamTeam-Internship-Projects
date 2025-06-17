@@ -20,7 +20,7 @@ This project enables fast and accurate **face matching** from a dataset of face 
 ## 📁 Folder Structure
 
 face-image-matcher/
-├── event_photos/ # Dataset of face images
+├── event_photos/ # 🔒 [This folder should contain your private face images. DO NOT upload to GitHub.]
 ├── encode_faces.py # Extract and save face embeddings
 ├── face_matcher.py # Search similar faces using webcam
 ├── requirements.txt # All dependencies
